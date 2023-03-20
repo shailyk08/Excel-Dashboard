@@ -16,3 +16,6 @@ There is a graph which shows sales by month , sales by region and sales of produ
 In PRODUCT you can see graph which shows how many quantity sold out , top 3 products , less selling products.
 In SALESMAN you can see performance of them , top performing salesman and poor performing salesman.
 In ABOUT you can see the details who have created this dashboard.
+
+YOU CAN DOWNLOAD THE EXCEL FILE AND CAN SEE THE DASHBOARD
+THANK YOU
